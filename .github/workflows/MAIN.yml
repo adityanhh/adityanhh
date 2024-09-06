@@ -23,7 +23,7 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Push the changes using a maintained GitHub Action
+      # Push the changes using a maintained GitHub Action (use v0.6.0)
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
