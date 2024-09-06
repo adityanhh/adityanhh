@@ -27,8 +27,8 @@
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/adityanhh">
-  <img height="160em" src="!https://github-readme-stats.vercel.app/api?username=adityanhh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="160em" src="!https://github-readme-stats.vercel.app/api/top-langs/?username=adityanhh&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="160em" src="![adityanhh's Stats](https://github-readme-stats.vercel.app/api?username=adityanhh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)"/>
+  <img height="160em" src="![adityanhh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanhh&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)"/>
 </a>
 </p>
 
