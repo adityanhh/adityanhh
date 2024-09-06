@@ -1,9 +1,8 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aditya Nugraha</h1>
-<h3 align="center">As a final year students who loves to create and share projects about Machine Learning and Web technology! I enjoyed Python also Javascript and make it the main language in creating a project.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityanhh" alt="adityanhh" /></a> </p>
+<h1 align="">Hi 👋, I'm Aditya Nugraha</h1>
+<h3 align="">As a final year students who loves to create and share projects about Machine Learning and Web technology! I enjoyed Python also Javascript and make it the main language in creating a project.</h3>
+
 
 - 🔭 I’m currently studying at [National Institute of Technology](https://www.itenas.ac.id/)
 
