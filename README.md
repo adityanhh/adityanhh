@@ -1,7 +1,7 @@
 
 
 <h1 align="">Hi 👋, I'm Aditya Nugraha</h1>
-<h3 align="">As a final year students who loves to create and share projects about Machine Learning and Web technology! I enjoyed Python also Javascript and make it the main language in creating a project.</h3>
+<h3 align="">As a final year students who loves to create and share projects about Machine Learning and Web technology! I enjoyed Javascript and Python and make it the main language in creating a project.</h3>
 
 
 - 🔭 I’m currently studying at [National Institute of Technology](https://www.itenas.ac.id/)
