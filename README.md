@@ -32,6 +32,11 @@
 </a>
 </p>
 
+### Snake eating my contributions 🐍
+
+![Snake animation](https://github.com/adityanhh/adityanhh/blob/output/snake.svg)
+
+
 ### Reach me on 📫
 <a href="https://linkedin.com/in/adityanhh/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" /></a>
 <a href="mailto:aditya.an21@gmail.com"><img align="left" alt="email" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
