@@ -12,9 +12,10 @@
 
 
 ### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://designlooter.com/images/python-svg-1.png" /></a>
   <a href="#"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://i0.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?ssl=1" /></a>
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" height="21px" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
