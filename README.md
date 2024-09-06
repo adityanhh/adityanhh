@@ -1,15 +1,12 @@
 
 
 <h1 align="">Hi 👋, I'm Aditya Nugraha</h1>
-<h3 align="">As a final year students who loves to create and share projects about Machine Learning and Web technology! I enjoyed Javascript and Python and make it the main language in creating a project.</h3>
+<p align="">As a final-year student passionate about creating and sharing projects in Machine Learning and Web technologies, I focus on utilizing JavaScript and Python as my primary languages for building innovative Applications.</p>
 
 
 - 🔭 I’m currently studying at [National Institute of Technology](https://www.itenas.ac.id/)
 
 - 🌱 I’m currently learning **Fullstack development and Machine Learning**
-
-- 📫 How to reach me **aditya.an21@gmail.com**
-
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
