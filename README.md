@@ -24,8 +24,8 @@
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/adityanhh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityanhh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanhh&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityanhh&theme=vision-friendly-dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanhh&theme=vision-friendly-dark&layout=compact&hide=cmake,hack,dart,kotlin,c,css,c%2B%2B,swift,html,objective-c"/>
 </a>
 </p>
 
